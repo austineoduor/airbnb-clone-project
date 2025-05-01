@@ -47,4 +47,15 @@
   7. Database Optimizations
     Indexing: Implement indexes for fast retrieval of frequently accessed data.
     Caching: Use caching strategies to reduce database load and improve performance.
+
+**API Security**
+
+  Authentication and authorization to verify the identity of users and control access to resources.
+  Data protection to ensure the confidentiality and integrity of data transmitted through APIs.
+  Monitoring and logging to detect and respond to security incidents.
+
+**CI/CD Pipeline**
+
+  CI/CD pipelines in cloud environments also use containers such as Docker and orchestration systems such as Kubernetes.
+  Containers allow for packaging and shipping applications in a standard, portable way. Containers make it easy to scale up or tear down environments with variable workloads.
   
